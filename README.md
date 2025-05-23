@@ -49,5 +49,4 @@ I'm **Bagas Setyo Nugroho**, a passionate **Web Developer** with over **4 years 
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/bagazsetyo/bagazsetyo/output/snake.svg" alt="Snake animation" />
