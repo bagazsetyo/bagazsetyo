@@ -34,12 +34,6 @@ I'm **Bagas Setyo Nugroho**, a passionate **Web Developer** with over **4 years 
 
 ---
 
-## 📊 GitHub Stats
-
-[![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagazsetyo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🎓 Education
 
 - **SMK N 2 Magelang** – Software Engineering (Graduated 2021)
