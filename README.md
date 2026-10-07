@@ -2,38 +2,34 @@
   <img src="assets/profile-header.svg" alt="Bagas Setyo Nugroho - Backend and Fullstack Web Developer" width="100%" />
 </p>
 
-# Hi, I'm Bagas.
+# Bagas Setyo Nugroho
 
-I'm a backend and fullstack web developer based in Bandung, Indonesia. I enjoy turning complex workflows into web apps that feel simple to use and straightforward to maintain. Most of my work has been on government platforms, enterprise applications, and internal business systems.
+**Backend / Fullstack Web Developer** · Bandung, Indonesia
 
-**Currently:** building with Laravel and working across the stack when the project calls for it. Open to backend and fullstack opportunities.
+I build and maintain web applications for government services, enterprise workflows, and internal business teams. Backend is where I spend most of my time, but I enjoy taking a feature through the frontend when it needs a complete solution.
 
-## Selected work
+> I'm interested in backend and fullstack opportunities in **Malaysia and with international teams**. Open to discussing relocation or remote work.
 
-| Project | What I worked on | Stack |
-| --- | --- | --- |
-| APPWARD | Backend development and maintenance for a business application | Laravel, PHP, MySQL |
-| Portal Hubla | Fullstack development for a maritime portal | .NET, Angular |
-| Citizenship application | Migrated an existing Yii2 application | NestJS, Next.js |
-| DPD RI portal | Interface implementation and API integration | Tailwind CSS, Alpine.js, .NET Core |
+## Work highlights
 
-Some of this work belongs to clients and does not have a public repository. I can talk through my contribution and technical decisions in a conversation.
+- **APPWARD:** developing and maintaining a Laravel application used for business operations.
+- **Portal Hubla:** building a maritime portal with .NET and Angular.
+- **Citizenship application:** rebuilding an existing Yii2 system with NestJS and Next.js.
+- **DPD RI portal:** implementing interfaces and integrating APIs with Tailwind CSS, Alpine.js, and .NET Core.
 
-## Tools I use
+These are client projects, so their code is not public. I'm happy to discuss my work and the decisions behind it.
 
-| Area | Technologies |
-| --- | --- |
-| Languages | PHP, JavaScript, Go |
-| Backend | Laravel, Yii2, .NET, Express.js, NestJS |
-| Frontend | React, Next.js, Vue, Nuxt.js, Angular, Tailwind CSS, Alpine.js |
-| Data and tooling | MySQL, PostgreSQL, SQLite, Git, Docker, MinIO |
+## Stack
 
-## How I work
+- **Languages:** PHP, JavaScript, Go
+- **Backend:** Laravel, Yii2, .NET, Express.js, NestJS
+- **Frontend:** React, Next.js, Vue, Nuxt.js, Angular, Tailwind CSS, Alpine.js
+- **Data & tools:** MySQL, PostgreSQL, SQLite, Git, Docker, MinIO
 
-**Understand** the problem &rarr; **Analyze** the constraints &rarr; **Design** an approach &rarr; **Build** the solution &rarr; **Refine** what needs improvement.
+I like to understand the workflow and constraints first, then build in manageable steps and improve the details with feedback.
 
-I'm studying Informatics Engineering at Universitas Sangga Buana alongside full-time work, with graduation scheduled for October 2026.
+Alongside work, I'm studying Informatics Engineering at Universitas Sangga Buana. My graduation is scheduled for October 2026.
 
-## Get in touch
+## Connect
 
-[Email](mailto:bagazfrazetyo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bagas-setyo)
+[Portfolio](https://portfolio-phi-rust-48.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bagas-setyo) · [Email me](mailto:bagazfrazetyo@gmail.com)

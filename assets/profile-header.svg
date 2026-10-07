@@ -21,9 +21,9 @@
   <text x="96" y="51" fill="#6050bd" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SETYO / DEV</text>
   <text x="58" y="132" fill="#23223a" font-family="Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-2">Bagas Setyo Nugroho</text>
   <text x="60" y="178" fill="#6050bd" font-family="Arial, sans-serif" font-size="22" font-weight="600">Backend / Fullstack Web Developer</text>
-  <text x="60" y="224" fill="#626178" font-family="Arial, sans-serif" font-size="17">Building useful web systems, one thoughtful iteration at a time.</text>
-  <text x="60" y="292" fill="#626178" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BANDUNG, INDONESIA</text>
-  <text x="955" y="292" fill="#6050bd" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BUILD  /  REFINE</text>
+  <text x="60" y="224" fill="#626178" font-family="Arial, sans-serif" font-size="17">Useful systems. Clear interfaces. Thoughtful delivery.</text>
+  <text x="60" y="292" fill="#626178" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BASED IN BANDUNG, INDONESIA</text>
+  <text x="913" y="292" fill="#6050bd" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">MALAYSIA / GLOBAL ROLES</text>
   <circle cx="1004" cy="143" r="115" fill="#edeafd" fill-opacity=".55"/>
   <g transform="translate(963 48) scale(.62)">
     <path d="M246 20H143C80 20 52 40 42 84c-12 49 3 77 45 101l96 56h-72c-37 0-58 10-73 32l-28 44h142c60 0 93-22 102-65 10-46-5-74-48-98l-106-53h79l67-81Z" fill="url(#mark)"/>
